@@ -41,17 +41,17 @@
                     </a>
                 </li>
                 <li class="pb-1">
-                    <a href="/blog">
+                    <a href="/">
                         Address
                     </a>
                 </li>
                 <li class="pb-1">
-                    <a href="/login">
+                    <a href="/">
                         Phone
                     </a>
                 </li>
                 <li class="pb-1">
-                    <a href="/register">
+                    <a href="/">
                         Contact
                     </a>
                 </li>
